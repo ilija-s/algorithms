@@ -13,7 +13,6 @@ bool canJump(vector<int>& nums){
         int cnt = nums[i];
         int highestJump = 0;
         int index = 0;
-        cout << "while\n";
         while(cnt){
             if(nums[i+cnt] > highestJump){
                 highestJump = nums[i+cnt];
