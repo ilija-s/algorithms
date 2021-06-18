@@ -5,7 +5,7 @@ using namespace std;
 
 /*
  * Finds two elements in sorted array whose sum is given as target_sum
- * Techique used here is called two pointer technique
+ * Technique used here is called two pointer technique
  * Time complexity O(n)
  */
 
